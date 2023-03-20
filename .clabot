@@ -1,5 +1,5 @@
 {
-  "contributors": [],
+  "contributors": "https://script.google.com/a/macros/hyperconstruct.io/s/AKfycbyW03daVKyZNf2H6DJaCDY-zjXWUP12mcF_-u4Y8-hTVNuyd7o1QeWYrAl4Enj5DwZIng/exec",
   "label": "verified-contributor",
   "message": "**Thank you for your pull request and welcome to the Ethereal Engine developer community!**\n\nWe require contributors to sign our Copyright Assignment Agreement, and we don't seem to have you on file.\n\nIn order for us to review and merge your code, please sign the agreement at https://forms.gle/15ENsSAJGKf2ozvB7\n\nThe agreement has not been signed by users: {{usersWithoutCLA}}.\n\nAfter signing the agreement, you can ask me to recheck this PR by posting `@cla-bot check` as a comment to the PR :)",
   "recheckComment": "Rechecking to see that all contributors are verified."
